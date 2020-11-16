@@ -14,7 +14,6 @@ Chat developed using Java.
 Provided with a well-defined **language**, certain actions will occur following the input of the following commands:
 1) **exit-->** the user will be logged out
 2) **@ls-->** the user will be shown a list of members participating in the chat
-
 3)**@username-->** whisper to the chosen client
 The project also contains a diagram of the classes and requirements specifications.
 The chat uses a specific language that can be found within the requirements specification
